@@ -177,10 +177,10 @@ This project demonstrates the implementation of Linux Nginx MySql and Nginx (LEM
 
 + [x] 5.  Testing **PHP** with **NGINX**<br/>
     + At this point, your LAMP stack is completely installed and fully operational.<br/>
-    + **L**inux (Ubuntu)<br/>
-    + **N**ginx HTTP Server<br/>
-    + **M**ySQL<br/>
-    + **P**HP<br/>
+      + **L**inux (Ubuntu)<br/>
+      + **N**ginx HTTP Server<br/>
+      + **M**ySQL<br/>
+      + **P**HP<br/>
     
     + You can test it to validate that Nginx can correctly hand .php files off to your PHP processor.
       + Open a new file called info.php within your document root in your text editor:
